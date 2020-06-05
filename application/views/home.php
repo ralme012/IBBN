@@ -13,9 +13,10 @@
 				<div class="row">
 					<div class="col-lg-12 text-center">
 						<div class="section-title">
-							<h2>SOBRE NOS</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean feugiat, nisi quis imperdiet pharetra, 
-							nulla enim porttdfsdfsdfsdfitor ante, imperdiet vehicula felis turpis id nisl. Ut interdum sodales lacus. Duis in lacus 
+							<h2>SOBRE NÓS</h2>
+							<p>Lorem FDDFDFDpsum dolor sit amet, consectetur adipiscing elit. Aenean feugiat, nisi quis imperdiet pharetra, 
+							nulla enim porttitor ante, imperdiet vehicula felis turpis id nisl. Ut interdum sodales lacus. Duis in lacus 
+>>>>>>> 37020cd27f15b7fd33b68e7058aad93083fa77c1
 							sed purus luctus porta vitae nec lectus. Integer semper vulputate ligula, sed cursus sapien ornare vitae. 
 							Duis cursus maximus tempus. Maecenas faucibus in elit ac bibendum. Phasellus dapibus sollicitudin purus non 
 							commodo. Nunc sed convallis sapien. Quisque ipsum elit, faucibus sit amet quam vel, molestie malesuada arcu. 
