@@ -15,7 +15,7 @@
 						<div class="section-title">
 							<h2>SOBRE NOS</h2>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean feugiat, nisi quis imperdiet pharetra, 
-							nulla enim porttitor ante, imperdiet vehicula felis turpis id nisl. Ut interdum sodales lacus. Duis in lacus 
+							nulla enim porttdfsdfsdfsdfitor ante, imperdiet vehicula felis turpis id nisl. Ut interdum sodales lacus. Duis in lacus 
 							sed purus luctus porta vitae nec lectus. Integer semper vulputate ligula, sed cursus sapien ornare vitae. 
 							Duis cursus maximus tempus. Maecenas faucibus in elit ac bibendum. Phasellus dapibus sollicitudin purus non 
 							commodo. Nunc sed convallis sapien. Quisque ipsum elit, faucibus sit amet quam vel, molestie malesuada arcu. 
