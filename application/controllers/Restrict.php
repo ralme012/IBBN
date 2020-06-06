@@ -5,6 +5,15 @@ class Restrict extends CI_Controller {
 
 	public function index()
 	{
+		echo "Controller Restrict!";
+	}
+
+	public function hash(){
 		echo password_hash("nala1612",PASSWORD_DEFAULT);
+	}
+
+	public function test(){
+		$test = "Controller test!";
+		var_dump($test);
 	}
 }
