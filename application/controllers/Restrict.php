@@ -13,7 +13,7 @@ class Restrict extends CI_Controller {
 	}
 
 	public function test(){
-		$test = "Controller test!";
+		$test = "Controller Restrict test!";
 		var_dump($test);
 	}
 }
